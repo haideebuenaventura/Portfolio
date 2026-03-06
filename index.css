@@ -1,8 +1,29 @@
 body{
 font-family: Arial;
 margin:0;
-background:#fff9e6;
+background:#fce4ec;
 text-align:center;
+}
+
+h1 {
+color:#add8e6;
+font-size:28px;
+margin-top:20px;
+margin-bottom:10px;
+}
+
+.higlight-text{
+color:#add8e6;
+font-weight:bold;
+font-size:18px;
+margin:0;
+}
+
+.about-paragraph{
+color:#add9e6;
+font-weight:bold;
+font-size:18px;
+margin:0;
 }
 
 .title{
@@ -70,6 +91,7 @@ color:#3949ab;
 }
 
 		
+
 
 
 
