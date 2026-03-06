@@ -1,12 +1,14 @@
 body{
 font-family: Arial;
 margin:0;
-background:#f3e5f5;
+background:#fff9e6;
 text-align:center;
 }
 
 .title{
 margin-top:20px;
+color:#d32f2f;
+font-size:24px;	
 }
 
 .profile-img{
@@ -16,7 +18,7 @@ height:auto;
 display:block;
 margin:auto;
 border-radius:10px;
-box-shadow:0 4px 10px rgba(103, 58, 183, 0.3);
+box-shadow:0 4px 10px rgba(255, 224, 130, 0.5);
 }
 
 /* FLEXBOX */
@@ -32,8 +34,8 @@ margin-top:30px;
 .box{
 width:200px;
 height:70px;
-background-color:#673ab7;
-color: white;
+background-color:#fff59d;
+color:#212121;
 border-radius:12px;
 display:flex;
 align-items:center;
@@ -57,6 +59,7 @@ margin:auto;
 margin-top:30px;
 font-size:16px;
 line-height:1.6;
+color:#3949ab;	
 }
 .profile-bg {
 	width:600%;
@@ -67,6 +70,7 @@ line-height:1.6;
 }
 
 		
+
 
 
 
